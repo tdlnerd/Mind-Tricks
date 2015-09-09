@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Placement Scripts/Move Preassigned.js">
     <Files>
-      <File FileName="Assets/Placement Scripts/Move Preassigned.js" Line="4" Column="50" />
+      <File FileName="Assets/Placement Scripts/Move Preassigned.js" Line="4" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
